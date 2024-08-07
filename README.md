@@ -24,3 +24,4 @@ https://github.com/akaunting/laravel-module
 
 ## Updates
 git diff --name-only 396dbbd2068a61a658222f1a3c079dddeda0dcf0 > .diff-files.txt && npm run zipupdate# wpbox
+# wbox
